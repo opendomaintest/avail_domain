@@ -11,12 +11,12 @@
 	<tr>
 		<td height="17" align="right" sdval="1" sdnum="16393;">1</td>
 		<td align="left"><font face="Liberation Serif"><a href="http://rtwork-space.tk/">rtwork-space.tk </a></font></td>
-		<td align="left">ONLINE</td>
+		<td align="left"><font color="green">ONLINE</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="right" sdval="2" sdnum="16393;">2</td>
-		<td align="left"><font face="Liberation Serif"><a href="http://resultstrack.ml/">resultstrack.ml </a></font></td>
-		<td align="left"><br></td>
+		<td align="left"><font face="Liberation Serif"><><a href="http://resultstrack.ml/">resultstrack.ml </a></font></td>
+		<td align="left"><font color="green">ONLINE</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="right" sdval="3" sdnum="16393;">3</td>
